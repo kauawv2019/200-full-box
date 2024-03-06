@@ -29,6 +29,17 @@ text-align: left;
 width: 100%
 fint-sizl: 32px;
 }
-.titulo-principal spam{
+.titulo-principal span{
 color: var(--verde);
+}
+.botão{
+font-family:"chakrapetch",sans-serf;
+bockground-color:var(--botao-inativo);
+color:var(--branco);
+display.flex;
+justify-content:center
+poddinf:1em;
+font-suze:18px;
+align-items:center;
+width:100%;
 }
